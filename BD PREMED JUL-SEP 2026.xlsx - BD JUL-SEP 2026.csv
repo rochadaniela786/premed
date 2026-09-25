@@ -1,0 +1,977 @@
+ID Usuario,Correo,Fecha Registro,Sexo,Fecha Nacimiento,País Residencia,Escuela,Promedio Escuela,Escuela Ingreso,Licenciatura a Cursar,UNAM
+5082,FlordeMentA,2026-06-30T06:04:47.000Z,Mujer,2008-03-31,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5083,325257927,2026-06-30T06:47:54.000Z,Mujer,2009-09-03,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5084,177,2026-06-30T07:57:28.000Z,Hombre,2008-02-18,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Neurociencias,No
+5086,NC27_001,2026-06-30T08:26:01.000Z,Hombre,2008-02-18,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Neurociencias,No
+5087,NC27_015,2026-06-30T17:56:07.000Z,Hombre,2006-01-08,MX,ENP 2 “Erasmo Castellanos Quinto”,7,Facultad de Medicina CU,Neurociencias,Sí
+5089,NC27_009,2026-06-30T20:00:01.000Z,Hombre,2006-05-28,MX,Otra,7,Facultad de Medicina CU,Neurociencias,No
+5092,Valeria2113,2026-07-01T06:12:54.000Z,Mujer,2008-11-21,MX,ENP 9 “Pedro de Alba”,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5104,Catecolamino,2026-07-02T15:10:14.000Z,Hombre,2006-05-09,MX,ENP 2 “Erasmo Castellanos Quinto”,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5107,Yolotzin?,2026-07-02T19:56:46.000Z,Mujer,2009-07-18,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,No
+5108,319529832,2026-07-02T21:17:56.000Z,Mujer,2003-09-02,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Neurociencias,Sí
+5110,E00080273,2026-07-02T21:36:41.000Z,Mujer,2007-09-25,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5112,majo2318002,2026-07-03T00:22:59.000Z,Mujer,2008-08-31,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5115,NC27_010,2026-07-03T06:39:02.000Z,Hombre,2008-12-22,MX,ENP 6 “Antonio Caso”,8,Facultad de Medicina CU,Neurociencias,Sí
+5116,196,2026-07-03T16:26:24.000Z,Mujer,2007-01-04,MX,Otra,10,Facultad de Medicina CU,Neurociencias,Sí
+5127,228,2026-07-04T05:03:29.000Z,Hombre,2007-12-27,MX,CCH Oriente,7,Facultad de Medicina CU,Neurociencias,Sí
+5129,073,2026-07-04T12:55:12.000Z,Mujer,2008-09-27,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Neurociencias,Sí
+5132,Maji7o,2026-07-05T05:18:19.000Z,Mujer,2026-07-04,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,No
+5135,Pmaite05,2026-07-06T04:09:39.000Z,Mujer,2008-05-05,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5138,feroou,2026-07-06T23:03:58.000Z,Mujer,2009-05-08,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5139,172,2026-07-06T23:24:35.000Z,Hombre,2007-03-11,MX,Otra,9,Facultad de Medicina CU,Neurociencias,No
+5140,asuka,2026-07-07T00:04:58.000Z,Mujer,2009-05-06,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5142,dovejimga@gmail.com,2026-07-07T02:29:58.000Z,Mujer,2008-11-18,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5144,val_08x,2026-07-07T03:42:38.000Z,Mujer,2008-10-08,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,No
+5152,NC27_011,2026-07-08T04:06:33.000Z,Mujer,2005-04-09,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Neurociencias,Sí
+5153,174,2026-07-08T18:04:45.000Z,Hombre,2007-10-26,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Neurociencias,No
+5156,Mariane Moreno,2026-07-09T05:00:19.000Z,Mujer,2009-04-30,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5163,dulce_rivas,2026-07-10T21:21:52.000Z,Mujer,2007-11-11,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5168,Peasu1610_.,2026-07-12T14:41:19.000Z,Mujer,2008-10-16,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5171,JanisMorales,2026-07-13T06:05:19.000Z,Mujer,2009-06-22,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5172,158,2026-07-13T18:59:18.000Z,Mujer,2008-03-07,MX,Otra,9,Facultad de Medicina CU,Neurociencias,Sí
+5173,320122536,2026-07-13T19:21:10.000Z,Hombre,2002-10-28,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5179,ArminJ4,2026-07-17T06:59:12.000Z,Hombre,2004-05-28,MX,ENP 5 “José Vasconcelos”,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5181,Brguarneros2023#,2026-07-18T02:34:26.000Z,Hombre,2010-11-01,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5183,vale210409,2026-07-18T18:51:03.000Z,Mujer,2009-04-21,MX,Otra,7,Facultad de Medicina CU,Médico Cirujano,No
+5188,Estneucs,2026-07-19T22:14:04.000Z,Mujer,2009-12-04,MX,ENP 9 “Pedro de Alba”,7,Facultad de Medicina CU,Neurociencias,Sí
+5191,Mel_65N,2026-07-20T17:41:19.000Z,Mujer,2009-07-22,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5192,NC27_003,2026-07-20T18:36:30.000Z,Mujer,2008-09-27,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Neurociencias,Sí
+5195,Danna Yudith,2026-07-20T22:33:42.000Z,Mujer,2010-05-02,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5197,324135343,2026-07-22T02:32:33.000Z,Mujer,2008-12-21,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5198,Tfqp@26,2026-07-22T03:11:40.000Z,Mujer,2006-05-09,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5199,324102192,2026-07-22T05:21:50.000Z,Mujer,2008-02-19,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5201,325118846,2026-07-23T19:41:36.000Z,Mujer,2009-09-18,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5202,Anvare,2026-07-23T21:23:17.000Z,Hombre,2008-03-17,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5203,@HtNZ20,2026-07-24T13:48:05.000Z,Hombre,2008-06-23,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5205,Mildred,2026-07-24T19:11:01.000Z,Mujer,2007-08-27,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5208,Ricardo J,2026-07-28T06:58:00.000Z,Hombre,2007-06-28,MX,Otra,8,Facultad de Medicina CU,Neurociencias,No
+5210,sophiagonzalez907@gmail.com,2026-07-29T03:43:10.000Z,Mujer,2007-07-09,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5213,Neleatchi,2026-07-30T03:54:50.000Z,Mujer,2008-01-21,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5215,anadanielahrm@gmail.com,2026-07-30T15:53:20.000Z,Mujer,2007-09-08,MX,ENP 6 “Antonio Caso”,7,Facultad de Medicina CU,Neurociencias,Sí
+5222,MichelleMolina,2026-07-30T17:35:09.000Z,Mujer,2007-11-16,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5242,Valeria Haaz ,2026-07-30T17:39:56.000Z,Mujer,2007-11-09,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5247,Fer Cuautle,2026-07-30T17:41:07.000Z,Mujer,2007-08-24,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,No
+5271,Brissia,2026-07-30T18:17:01.000Z,Mujer,2008-04-16,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,No
+5275,Thvdrea,2026-07-30T19:35:54.000Z,Mujer,2007-02-28,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5277,Andy123,2026-07-31T05:14:36.000Z,Mujer,2008-11-24,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5278,Tania Vazquez Torres ,2026-07-31T14:23:52.000Z,Mujer,2006-11-12,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,No
+5279,Miguel Angel Olvera Hernández ,2026-07-31T16:38:57.000Z,Hombre,2007-04-04,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,No
+5280,unicornio.natalie@gmail.com,2026-07-31T20:04:55.000Z,Mujer,2009-01-28,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5282,torresolagueregina@gmail.com,2026-08-01T17:31:58.000Z,Mujer,2009-12-06,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5284,Leo zam ,2026-08-05T19:18:01.000Z,Mujer,2008-05-19,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5287,Emimillan,2026-08-07T20:21:43.000Z,Hombre,2009-05-27,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Neurociencias,Sí
+5288,Holistomaawita,2026-08-08T03:04:14.000Z,Mujer,2008-08-29,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,No
+5291,Patricia Valeria,2026-08-09T05:07:16.000Z,Mujer,2008-11-09,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5292,Briana123,2026-08-09T20:17:12.000Z,Mujer,2009-07-31,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,No
+5294,Paola E,2026-08-10T20:07:17.000Z,Mujer,2008-07-11,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5295,Pao1206,2026-08-11T22:25:31.000Z,Mujer,2006-04-12,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5298,BellaDerma,2026-08-16T06:36:20.000Z,Mujer,2010-06-19,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,No
+5300,Usuario1521,2026-08-18T16:23:59.000Z,Mujer,2005-01-15,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5301,Sofi Romero,2026-08-18T20:05:26.000Z,Mujer,2009-03-11,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Otras Licenciaturas,Sí
+5302,phpa76871@iqsj.maristas.edu.mx,2026-08-18T20:05:47.000Z,Mujer,2009-12-08,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Otras Licenciaturas,Sí
+5303,Caroranso2907,2026-08-18T20:05:49.000Z,Mujer,2009-07-29,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Combinados en Medicina,Sí
+5304,cresporodriguezpaolailian@gmail.com,2026-08-18T20:06:07.000Z,Mujer,2009-04-20,MX,Incorporada a la UNAM,7,Facultad de Medicina CU,Neurociencias,Sí
+5305,DeidadMartinez ,2026-08-18T20:06:22.000Z,Hombre,2009-08-09,MX,Incorporada a la UNAM,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5306,karoljudithgv06@gmail.com,2026-08-18T20:06:33.000Z,Mujer,2009-07-06,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Otras Licenciaturas,Sí
+5307,HorseFarfan ,2026-08-18T20:06:44.000Z,Hombre,2009-01-05,MX,Incorporada a la UNAM,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5308,vicrzb,2026-08-18T20:06:47.000Z,Mujer,2009-07-10,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Neurociencias,Sí
+5309,renatamoor,2026-08-18T20:06:48.000Z,Mujer,2009-08-29,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5311,Luisa ,2026-08-18T20:06:55.000Z,Mujer,2009-03-16,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Otras Licenciaturas,Sí
+5312,Marcos david ,2026-08-18T20:06:58.000Z,Hombre,2008-04-09,MX,Incorporada a la UNAM,7,Facultad de Medicina CU,Combinados en Medicina,Sí
+5313,Underdonedig440,2026-08-18T20:07:12.000Z,Hombre,2008-08-10,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5314,fatimamendez226@gmail.com,2026-08-18T20:07:22.000Z,Mujer,2009-03-18,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5315,nat,2026-08-18T20:07:29.000Z,Mujer,2009-03-14,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Combinados en Medicina,Sí
+5316,Preparador,2026-08-18T20:07:31.000Z,Hombre,2009-04-06,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Neurociencias,Sí
+5317,Cami,2026-08-18T20:07:39.000Z,Mujer,2009-01-25,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Otras Licenciaturas,Sí
+5318,Yareli valeria ,2026-08-18T20:08:05.000Z,Mujer,2009-02-19,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5319,Fatyma ,2026-08-18T20:08:25.000Z,Mujer,2009-12-14,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Combinados en Medicina,Sí
+5321,dana,2026-08-18T20:09:41.000Z,Mujer,2009-11-27,MX,Incorporada a la UNAM,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5322,Jesus123456,2026-08-18T20:10:22.000Z,Hombre,2009-03-08,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Otras Licenciaturas,Sí
+5324,brennn_as,2026-08-18T20:15:34.000Z,Mujer,2009-09-23,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Combinados en Medicina,Sí
+5325,Nelon3000,2026-08-18T21:07:32.000Z,Mujer,2007-01-19,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5327,Azul Julio,2026-08-18T22:28:37.000Z,Mujer,2010-12-30,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5328,Pajiloa,2026-08-19T00:20:11.000Z,Hombre,2009-10-18,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5330,poiuytrew,2026-08-19T02:03:45.000Z,Hombre,2009-09-02,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5331,Brizna ,2026-08-19T19:25:12.000Z,Mujer,2009-01-25,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,No
+5333,Estefany ,2026-08-20T04:33:41.000Z,Prefiero no decirlo,2010-12-17,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Médico Cirujano,No
+5336,sack080613,2026-08-31T04:51:19.000Z,Mujer,2008-06-13,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5337,Sada1263,2026-08-31T17:48:53.000Z,Hombre,2006-12-25,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5338,324321779,2026-09-01T00:32:45.000Z,Mujer,2007-06-07,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5344,omar jael ,2026-09-02T19:02:59.000Z,Hombre,2009-09-18,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,No
+5355,gomezalamillafrida@gmail.com,2026-09-04T04:41:04.000Z,Mujer,2009-03-27,MX,Otra,9,Facultad de Medicina CU,Otras Licenciaturas,No
+5359,vape080423premed,2026-09-04T13:20:33.000Z,Hombre,2008-04-23,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5360,keyrasherlynloreto@cobaqroo.edu.mx,2026-09-04T21:18:53.000Z,Mujer,2009-10-13,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5363,itatii.lar@icloud.com,2026-09-04T21:20:17.000Z,Mujer,2009-09-22,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5367,Hayanaely Sansores,2026-09-04T21:21:08.000Z,Mujer,2008-05-30,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5369,Maria Cetzal,2026-09-04T21:21:25.000Z,Mujer,2009-07-13,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5378,Alex20*,2026-09-04T21:23:36.000Z,Hombre,2009-08-01,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5382,Vitaly,2026-09-04T21:24:40.000Z,Hombre,2009-07-16,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Biomédica,No
+5383,Javier Juárez ,2026-09-04T21:25:17.000Z,Hombre,2026-09-04,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5384,bolitadechocolate24,2026-09-05T04:08:54.000Z,Mujer,2008-06-24,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+5386,325333580,2026-09-05T19:29:21.000Z,Mujer,2008-07-04,MX,ENP 6 “Antonio Caso”,8,Facultad de Medicina CU,Neurociencias,Sí
+5387,Karol Esther Mora Vallejo ,2026-09-06T02:14:01.000Z,Mujer,2007-08-25,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5388,427272233,2026-09-06T02:16:19.000Z,Hombre,2007-08-14,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5389,427397097,2026-09-06T02:17:12.000Z,Hombre,2007-03-15,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5390,Emiliano Sanchez Mendoza ,2026-09-06T02:18:36.000Z,Hombre,2007-03-05,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5391,324241194,2026-09-06T02:19:53.000Z,Hombre,2007-06-11,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5392,324277157,2026-09-06T02:31:06.000Z,Mujer,2008-04-03,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5393,Kifor14,2026-09-06T02:36:00.000Z,Mujer,2008-02-14,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5394,carlosbonillahdz,2026-09-06T02:37:01.000Z,Hombre,2008-02-02,MX,Otra,10,Facultad de Medicina CU,Médico Cirujano,Sí
+5395,324280216,2026-09-06T02:39:44.000Z,Hombre,2008-06-18,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5396,324058769,2026-09-06T02:40:57.000Z,Mujer,2008-02-20,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5397,324091030,2026-09-06T02:49:20.000Z,Hombre,2008-03-08,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5398,Zertuche ,2026-09-06T02:55:03.000Z,Hombre,2009-02-04,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5399,427374825,2026-09-06T03:02:58.000Z,Mujer,2006-09-25,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5400,324628676,2026-09-06T03:03:54.000Z,Mujer,2008-07-09,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5401,324065352,2026-09-06T03:06:30.000Z,Mujer,2008-05-13,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5402,32408687,2026-09-06T03:07:39.000Z,Mujer,2008-05-17,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5403,427274639,2026-09-06T03:17:31.000Z,Hombre,2007-05-21,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5404,324268780,2026-09-06T03:17:32.000Z,Hombre,2008-10-19,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5405,324036408,2026-09-06T03:20:43.000Z,Mujer,2008-01-29,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5406,427296354,2026-09-06T03:30:53.000Z,Mujer,1996-02-20,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5407,324043307,2026-09-06T03:56:11.000Z,Mujer,2008-01-18,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5408,324206197,2026-09-06T04:22:05.000Z,Hombre,2008-06-23,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5409,324314461,2026-09-06T04:22:11.000Z,Mujer,2008-03-17,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5410,Alvaradoris_23,2026-09-06T04:26:08.000Z,Mujer,2008-02-22,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5411,324163898,2026-09-06T04:27:53.000Z,Hombre,2008-10-02,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5412,321285690,2026-09-06T04:42:17.000Z,Hombre,2005-11-20,MX,ENP 1 “Gabino Barreda”,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5413,324328723,2026-09-06T04:54:39.000Z,Mujer,2008-08-29,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5414,324037807,2026-09-06T05:01:02.000Z,Mujer,2008-09-18,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5415,324131943,2026-09-06T05:36:55.000Z,Mujer,2008-07-11,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5416,427366929,2026-09-06T05:37:08.000Z,Hombre,2008-10-20,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5417,324062368,2026-09-06T12:57:19.000Z,Mujer,2008-09-22,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5418,427385423,2026-09-06T16:33:30.000Z,Mujer,2008-10-18,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5419,Zet,2026-09-06T16:37:50.000Z,Hombre,2008-06-08,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5420,324164297,2026-09-06T16:51:58.000Z,Mujer,2008-11-07,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5421,324040557,2026-09-06T17:32:25.000Z,Mujer,2008-02-29,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5422,Axel Ballinas ,2026-09-06T17:45:08.000Z,Hombre,2008-03-08,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5423,324276136,2026-09-06T17:50:22.000Z,Mujer,2008-11-12,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5424,324018846,2026-09-06T17:54:12.000Z,Mujer,2008-05-31,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5425,121003128,2026-09-06T18:42:13.000Z,Mujer,2008-05-19,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5426,324220902,2026-09-06T18:54:32.000Z,Hombre,2006-09-29,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5427,Levadura,2026-09-06T19:28:53.000Z,Mujer,2008-12-17,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5428,mare_.vc,2026-09-06T19:46:14.000Z,Mujer,2008-06-18,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5429,324118922,2026-09-06T19:48:46.000Z,Mujer,2008-06-18,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5430,yhaael_paris_zenil_ramirez,2026-09-06T20:25:28.000Z,Mujer,2008-02-23,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5431,324316001,2026-09-06T21:05:10.000Z,Mujer,2008-05-09,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5432,427282731,2026-09-06T21:06:09.000Z,Hombre,2006-01-11,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5433,324038127,2026-09-06T21:30:14.000Z,Mujer,2008-05-09,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5434,Ramsés ,2026-09-06T21:30:17.000Z,Hombre,2007-05-02,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5435,tomj081121,2026-09-06T21:33:19.000Z,Hombre,2008-11-21,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5436,324312333,2026-09-06T21:42:59.000Z,Mujer,2008-10-24,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5437,324298734,2026-09-06T21:46:56.000Z,Mujer,2008-05-25,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5438,324274307,2026-09-06T21:50:56.000Z,Mujer,2008-04-15,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5439,324172667,2026-09-06T21:53:44.000Z,Mujer,2008-06-17,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5440,Montserrat Cisneros ,2026-09-06T21:54:51.000Z,Mujer,2008-07-24,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5441,324207194,2026-09-06T22:36:25.000Z,Hombre,2007-09-07,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5442,324322604,2026-09-06T22:38:20.000Z,Mujer,2008-06-27,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5443,324226980,2026-09-06T23:04:15.000Z,Hombre,2007-11-19,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5444,324260306,2026-09-06T23:17:27.000Z,Mujer,2007-02-13,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5445,324249516,2026-09-06T23:30:34.000Z,Mujer,2008-01-18,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5446,324188521,2026-09-06T23:31:16.000Z,Mujer,2003-03-16,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5447,324089291,2026-09-07T00:00:32.000Z,Mujer,2005-08-01,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5448,427366242,2026-09-07T00:16:58.000Z,Hombre,2008-05-19,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5449,324169292,2026-09-07T00:40:39.000Z,Mujer,2008-01-31,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5450,324098761,2026-09-07T01:01:42.000Z,Mujer,2008-02-20,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5452,324196551,2026-09-07T01:18:00.000Z,Mujer,2008-05-09,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5453,Esteban Aceves,2026-09-07T01:32:13.000Z,Hombre,2007-01-25,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5454,307248923,2026-09-07T01:38:35.000Z,Mujer,1991-07-24,MX,CCH Sur,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5455,324259447,2026-09-07T01:43:36.000Z,Mujer,2008-08-05,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5456,324232387,2026-09-07T01:46:43.000Z,Mujer,2008-03-07,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5457,324491454,2026-09-07T02:05:52.000Z,Hombre,2008-07-14,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5458,324018200,2026-09-07T02:06:32.000Z,Mujer,2008-12-12,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5459,324132926,2026-09-07T02:25:24.000Z,Hombre,2006-12-06,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5460,324259928,2026-09-07T02:46:22.000Z,Hombre,2008-01-23,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5461,Aura,2026-09-07T02:47:24.000Z,Mujer,2008-02-01,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5462,324003374,2026-09-07T02:50:00.000Z,Mujer,2008-02-01,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5463,324249509,2026-09-07T02:55:41.000Z,Mujer,2008-11-17,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5464,324269536,2026-09-07T03:17:21.000Z,Mujer,2008-04-07,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5465,325652487,2026-09-07T03:27:33.000Z,Hombre,2007-09-10,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5466,322067305,2026-09-07T03:29:15.000Z,Hombre,2006-04-05,MX,ENP 6 “Antonio Caso”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5467,427361931,2026-09-07T03:47:16.000Z,Mujer,2008-04-15,MX,Incorporada a la SEP,10,Facultad de Medicina CU,Médico Cirujano,Sí
+5468,324324251,2026-09-07T04:24:24.000Z,Mujer,2008-04-01,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5469,324502963,2026-09-07T04:35:30.000Z,Mujer,2008-06-24,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5470,324070336,2026-09-07T04:50:33.000Z,Hombre,2008-06-16,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5471,427259236,2026-09-07T05:18:13.000Z,Hombre,2008-10-20,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5472,324313749,2026-09-07T06:49:51.000Z,Mujer,2008-07-01,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5473,427318272,2026-09-07T13:31:55.000Z,Mujer,2008-04-18,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5474,427359491,2026-09-07T13:40:49.000Z,Hombre,2007-05-07,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5475,Brayan,2026-09-07T16:19:51.000Z,Hombre,2009-06-29,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Médico Cirujano,No
+5476,324224405,2026-09-07T17:53:19.000Z,Mujer,2007-01-09,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5477,324292756,2026-09-07T19:23:38.000Z,Mujer,2008-02-19,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5478,324042496,2026-09-07T19:36:10.000Z,Mujer,2008-05-08,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5479,324140262,2026-09-07T19:39:37.000Z,Mujer,2008-07-21,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5481,ximena_carmona,2026-09-07T20:09:46.000Z,Mujer,2008-12-02,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5482,324300879,2026-09-07T20:12:52.000Z,Mujer,2008-12-02,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5483,314274290,2026-09-07T20:36:23.000Z,Mujer,1998-08-26,MX,ENP 4 “Vidal Castañeda y Nájera”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5484,427240072,2026-09-07T21:04:24.000Z,Hombre,2005-04-21,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5485,324284434,2026-09-07T22:50:47.000Z,Mujer,2008-10-31,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5486,324111693,2026-09-07T23:15:53.000Z,Mujer,2008-02-13,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5487,32408037-7,2026-09-07T23:53:05.000Z,Hombre,2008-06-03,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5488,324261310,2026-09-08T00:03:40.000Z,Mujer,2008-01-03,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5489,324176517,2026-09-08T00:15:07.000Z,Mujer,2008-11-24,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5490,324080377MC,2026-09-08T00:15:19.000Z,Hombre,2008-06-03,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5491,324150904,2026-09-08T00:59:14.000Z,Hombre,2008-06-24,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5492,324108091,2026-09-08T01:24:15.000Z,Mujer,2008-01-10,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5493,324229091,2026-09-08T01:33:57.000Z,Mujer,2008-04-11,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5494,324128712,2026-09-08T01:34:29.000Z,Mujer,2008-10-07,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5495,324155497,2026-09-08T01:45:29.000Z,Mujer,2008-12-17,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5496,Mango_3579,2026-09-08T02:05:50.000Z,Mujer,2008-12-18,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5497,324223549,2026-09-08T02:07:11.000Z,Mujer,2008-02-02,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5498,324130386,2026-09-08T02:10:27.000Z,Mujer,2008-08-01,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5499,324011964,2026-09-08T02:25:26.000Z,Mujer,2008-06-24,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5500,pablorebo57,2026-09-08T02:32:08.000Z,Hombre,2008-07-05,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5502,324184468,2026-09-08T02:41:43.000Z,Mujer,2008-10-16,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5503,324079913,2026-09-08T02:45:16.000Z,Mujer,2008-04-23,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5504,324041523,2026-09-08T02:46:17.000Z,Mujer,2008-09-19,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5505,Matías Terán Fuentes,2026-09-08T02:47:09.000Z,Hombre,2008-10-16,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Combinados en Medicina,No
+5506,324293186,2026-09-08T02:49:14.000Z,Mujer,2008-08-02,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5507,324312168,2026-09-08T02:50:30.000Z,Hombre,2007-04-29,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5508,324078789,2026-09-08T02:53:09.000Z,Hombre,2008-01-23,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5509,Mitzury Jael Ruiz Castro,2026-09-08T03:06:59.000Z,Mujer,2008-04-29,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5510,32406368,2026-09-08T03:18:29.000Z,Mujer,2008-05-30,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5511,324173482,2026-09-08T03:19:44.000Z,Mujer,2008-03-08,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5512,318368256,2026-09-08T03:29:10.000Z,Hombre,2002-01-29,MX,ENP 1 “Gabino Barreda”,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5513,427374337,2026-09-08T03:30:03.000Z,Prefiero no decirlo,2008-08-27,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5514,324240984,2026-09-08T03:35:15.000Z,Mujer,2008-04-24,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5515,324086984,2026-09-08T03:40:18.000Z,Mujer,2008-04-05,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5516,324002339,2026-09-08T03:40:52.000Z,Hombre,2008-02-08,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5517,Sofia123,2026-09-08T03:42:08.000Z,Mujer,2008-02-19,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5518,324099517,2026-09-08T03:45:55.000Z,Hombre,2008-05-28,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5519,324018767,2026-09-08T03:48:01.000Z,Mujer,2006-10-05,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5520,Isma,2026-09-08T03:52:40.000Z,Hombre,2008-05-13,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5521,ainka,2026-09-08T03:55:30.000Z,Mujer,2000-01-02,MX,ENP 2 “Erasmo Castellanos Quinto”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5522,3243006936,2026-09-08T04:04:57.000Z,Mujer,2008-03-24,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5523,323226592,2026-09-08T04:13:54.000Z,Hombre,2007-02-13,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5524,113005963,2026-09-08T04:16:48.000Z,Mujer,2000-01-02,MX,ENP 2 “Erasmo Castellanos Quinto”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5525,324269505,2026-09-08T04:19:29.000Z,Hombre,2008-03-17,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5526,324227822,2026-09-08T04:24:04.000Z,Mujer,2008-07-16,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5527,324078150,2026-09-08T04:45:27.000Z,Hombre,2008-10-03,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5528,324057243,2026-09-08T04:51:37.000Z,Mujer,2008-06-20,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5529,427299269,2026-09-08T04:59:34.000Z,Hombre,2008-10-06,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5531,427347016,2026-09-08T06:27:45.000Z,Mujer,2007-05-12,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5542,324212934,2026-09-08T13:34:58.000Z,Mujer,2008-09-05,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5543,vera_martinez_gustavo_adrian,2026-09-08T14:38:40.000Z,Hombre,2008-01-20,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5545,324055878,2026-09-08T15:01:03.000Z,Hombre,2008-06-26,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5546,Oswaldo OG,2026-09-08T15:17:01.000Z,Hombre,2008-12-06,MX,CCH Azcapotzalco,10,Facultad de Medicina CU,Médico Cirujano,Sí
+5547,322240517,2026-09-08T15:31:56.000Z,Hombre,2005-02-17,MX,ENP 5 “José Vasconcelos”,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5548,427346978,2026-09-08T16:35:26.000Z,Hombre,2008-06-24,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5549,324275751,2026-09-08T16:37:12.000Z,Mujer,2008-05-25,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5550,324041035,2026-09-08T17:30:59.000Z,Mujer,2008-03-11,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5551,324304626,2026-09-08T17:52:07.000Z,Hombre,2008-07-05,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5552,Erickgarciaarias ,2026-09-08T18:17:54.000Z,Hombre,2009-03-08,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Médico Cirujano,No
+5554,Ag.S.Sebastián,2026-09-08T19:51:42.000Z,Hombre,2008-12-28,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5555,324160969,2026-09-08T20:01:35.000Z,Mujer,2008-10-29,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5556,324081082,2026-09-08T20:09:27.000Z,Mujer,2008-04-16,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5558,324184475,2026-09-08T23:30:17.000Z,Mujer,2008-01-24,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5559,324162712,2026-09-09T00:19:28.000Z,Hombre,2008-01-09,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5560,324052138,2026-09-09T01:47:35.000Z,Mujer,2008-05-14,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5561,324137639,2026-09-09T01:50:57.000Z,Mujer,2008-09-14,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5562,324325368,2026-09-09T02:13:46.000Z,Hombre,2008-02-23,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5563,427263574,2026-09-09T02:48:27.000Z,Hombre,2007-07-08,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5565,324265703,2026-09-09T03:13:28.000Z,Mujer,2008-03-06,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5566,324259045,2026-09-09T03:19:09.000Z,Mujer,2008-02-21,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5567,427300558,2026-09-09T03:40:35.000Z,Mujer,2007-01-09,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,No
+5568,frifri,2026-09-09T03:59:39.000Z,Mujer,2009-03-08,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,No
+5570,324188208,2026-09-09T04:40:02.000Z,Hombre,2008-08-01,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5571,324314100,2026-09-09T05:05:40.000Z,Mujer,2008-01-03,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5574,miguel.gomez,2026-09-09T06:48:32.000Z,Hombre,2008-07-07,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5575,32424240,2026-09-09T06:50:18.000Z,Mujer,2008-12-20,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5576,324068030,2026-09-09T08:35:18.000Z,Hombre,2007-03-27,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5579,324299188,2026-09-09T14:09:16.000Z,Hombre,2008-04-09,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5580,324293234,2026-09-09T14:23:58.000Z,Mujer,2008-09-10,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5581,angel_soni,2026-09-09T16:29:33.000Z,Hombre,2008-10-28,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5582,324122985,2026-09-09T16:30:54.000Z,Mujer,2008-11-07,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5585,324182275 ,2026-09-09T18:34:51.000Z,Mujer,2007-11-28,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5586,Cruz Rossel Becerril Ibarra,2026-09-09T20:35:47.000Z,Hombre,1996-02-06,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5587,ab_026#,2026-09-09T20:57:41.000Z,Mujer,2008-07-24,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5588,324305977,2026-09-09T21:21:30.000Z,Mujer,2008-02-13,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5589,324010338,2026-09-09T21:29:35.000Z,Mujer,2008-03-17,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5590,324105715,2026-09-09T21:54:04.000Z,Hombre,2008-10-14,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5591,324123298,2026-09-09T21:59:43.000Z,Mujer,2026-03-12,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5592,Ulises Eli,2026-09-09T22:16:29.000Z,Hombre,2008-09-17,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5593,321145079,2026-09-09T22:43:50.000Z,Hombre,2004-02-02,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5594,324329809,2026-09-09T23:26:44.000Z,Mujer,2008-01-13,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5595,324048333,2026-09-09T23:27:39.000Z,Hombre,2008-01-20,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5596,frieda-lee,2026-09-10T00:12:36.000Z,Mujer,2007-08-24,MX,Incorporada a la UNAM,10,Facultad de Medicina CU,Médico Cirujano,Sí
+5597,324086111,2026-09-10T00:25:03.000Z,Hombre,2008-09-12,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5598,324020056,2026-09-10T00:25:19.000Z,Mujer,2008-02-25,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5599,324237928,2026-09-10T00:49:29.000Z,Mujer,2008-04-04,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5600,324001600,2026-09-10T01:24:48.000Z,Hombre,2006-07-08,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5601,427284223,2026-09-10T01:50:40.000Z,Mujer,2007-07-01,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5602,Mely,2026-09-10T01:52:19.000Z,Mujer,2009-01-13,MX,Otra,8,Facultad de Medicina CU,Otras Licenciaturas,No
+5603,Valeria Jacqueline Hernández Martinez,2026-09-10T02:04:01.000Z,Mujer,2008-03-17,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5604,324082223,2026-09-10T03:13:47.000Z,Mujer,2008-12-22,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5606,karen.mcrz07,2026-09-10T03:49:40.000Z,Mujer,2007-09-08,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5607,427286193,2026-09-10T04:00:29.000Z,Hombre,2008-12-07,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5608,Angietorres,2026-09-10T04:18:07.000Z,Mujer,2002-05-14,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5609,324290817,2026-09-10T04:41:16.000Z,Mujer,2007-08-13,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5610,324136546,2026-09-10T05:14:01.000Z,Hombre,2008-02-07,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5611,324293007,2026-09-10T05:20:18.000Z,Hombre,2007-02-20,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5612,324087125,2026-09-10T05:26:03.000Z,Mujer,2008-11-21,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5613,324006856,2026-09-10T06:17:49.000Z,Mujer,2008-11-14,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5614,324318627,2026-09-10T07:52:55.000Z,Mujer,2008-12-21,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5615,peml080212,2026-09-10T08:41:47.000Z,Mujer,2008-02-12,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5616,324003161,2026-09-10T14:42:58.000Z,Mujer,2008-03-01,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5617,324010259,2026-09-10T17:38:47.000Z,Mujer,2008-01-31,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5618,427280768 ,2026-09-10T20:13:43.000Z,Mujer,2004-11-05,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5619,324303045,2026-09-10T20:14:51.000Z,Hombre,2008-07-26,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5620,324031933,2026-09-10T20:17:54.000Z,Mujer,2008-07-12,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5621,324292866,2026-09-10T20:36:55.000Z,Mujer,2008-02-13,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5623,Minipekasupremo,2026-09-10T21:29:34.000Z,Hombre,2009-08-23,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,No
+5639,Hojojaja,2026-09-10T21:31:33.000Z,Prefiero no decirlo,2026-09-10,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Neurociencias,No
+5641,Esmeralda ,2026-09-10T21:31:45.000Z,Mujer,2009-05-22,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Combinados en Medicina,No
+5643,Abrahamlopez@cobaqroo.edu.mx,2026-09-10T21:32:57.000Z,Hombre,2009-09-20,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Otras Licenciaturas,No
+5648,324150351,2026-09-10T23:28:54.000Z,Hombre,2008-01-27,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5649,324190418,2026-09-10T23:50:01.000Z,Mujer,2008-02-11,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5650,324160323,2026-09-11T00:27:42.000Z,Mujer,2007-09-08,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5651,324020908,2026-09-11T00:28:09.000Z,Mujer,2008-03-19,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5652,324108194,2026-09-11T00:39:26.000Z,Hombre,2008-12-04,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5653,323679675,2026-09-11T00:40:59.000Z,Hombre,2007-01-03,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5654,324038426,2026-09-11T00:41:42.000Z,Mujer,2008-12-18,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5655,324240111,2026-09-11T00:52:03.000Z,Mujer,2008-06-16,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5656,324058305,2026-09-11T03:45:58.000Z,Mujer,2008-10-18,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5657,lunaamt,2026-09-11T04:13:25.000Z,Mujer,2007-10-11,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5658,324179295,2026-09-11T04:45:10.000Z,Mujer,2007-03-26,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5659,427359226,2026-09-11T05:54:29.000Z,Hombre,2001-11-24,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5660,Rebecavega1,2026-09-11T06:12:21.000Z,Mujer,2007-06-23,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5662,324323852,2026-09-11T13:23:35.000Z,Hombre,2008-07-01,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5663,324292426,2026-09-11T13:30:13.000Z,Mujer,2008-01-24,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5664,324098699,2026-09-11T15:25:13.000Z,Mujer,2007-11-13,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5665,usuario2008ro,2026-09-11T15:37:47.000Z,Mujer,2008-05-25,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5666,324100600,2026-09-11T16:41:58.000Z,Hombre,2008-04-22,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5667,324492389,2026-09-11T17:35:31.000Z,Hombre,2008-09-08,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5668,324057724,2026-09-11T18:58:44.000Z,Mujer,2026-09-09,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5669,324664838,2026-09-11T19:00:53.000Z,Hombre,2007-05-11,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5670,324154328,2026-09-11T19:02:07.000Z,Mujer,2008-12-15,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5671,324225828,2026-09-11T19:02:40.000Z,Mujer,2008-08-28,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5672,324169962,2026-09-11T19:09:07.000Z,Mujer,2008-08-25,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5673,324248148,2026-09-11T19:10:13.000Z,Mujer,2008-08-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5674,Usuario676767,2026-09-11T19:20:56.000Z,Hombre,2008-06-10,MX,ENP 6 “Antonio Caso”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5675,324155019,2026-09-11T20:31:44.000Z,Mujer,2008-02-12,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5676,427277087,2026-09-11T20:56:52.000Z,Hombre,2007-01-23,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5677,324320143,2026-09-11T20:59:14.000Z,Hombre,2008-04-02,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5678,324195798,2026-09-11T21:49:04.000Z,Mujer,2008-07-24,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5679,yael_vidal,2026-09-11T22:05:28.000Z,Hombre,2008-07-25,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5680,425103573,2026-09-11T22:25:56.000Z,Mujer,2005-08-19,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5681,324120637,2026-09-11T22:45:50.000Z,Mujer,2008-07-04,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5682,324266535,2026-09-11T23:16:28.000Z,Mujer,2007-02-24,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5683,324233511,2026-09-11T23:21:42.000Z,Mujer,2006-09-16,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5684,324300305,2026-09-11T23:34:30.000Z,Mujer,2008-03-10,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5685,324018729,2026-09-11T23:51:54.000Z,Mujer,2007-10-27,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5686,324307524,2026-09-12T00:53:01.000Z,Hombre,2008-04-09,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5687,324300532,2026-09-12T01:09:38.000Z,Mujer,2008-03-20,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5688,324034246,2026-09-12T01:10:18.000Z,Hombre,2008-07-01,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5689,324182378,2026-09-12T01:29:25.000Z,Mujer,2007-11-04,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5690,324088115,2026-09-12T01:34:58.000Z,Hombre,2008-05-28,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5691,324229998,2026-09-12T01:46:45.000Z,Mujer,2007-04-29,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5692,324234817,2026-09-12T02:00:50.000Z,Mujer,2008-06-28,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5693,324316898,2026-09-12T02:38:58.000Z,Hombre,2008-04-08,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5694,324148749,2026-09-12T02:52:34.000Z,Hombre,2008-04-24,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5695,322327232,2026-09-12T03:02:50.000Z,Hombre,2006-12-19,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5696,324171804,2026-09-12T03:10:11.000Z,Hombre,2008-12-16,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5697,324184774,2026-09-12T03:44:15.000Z,Mujer,2008-12-17,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5698,324139080,2026-09-12T04:10:34.000Z,Mujer,2008-01-21,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5699,324491760,2026-09-12T04:24:04.000Z,Mujer,2008-08-20,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5700,324020465,2026-09-12T04:43:25.000Z,Mujer,2008-05-14,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5701,324002865,2026-09-12T04:46:03.000Z,Mujer,2008-10-07,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5702,324280780,2026-09-12T04:47:10.000Z,Mujer,2008-12-12,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5703,324093388,2026-09-12T04:53:24.000Z,Mujer,2008-03-27,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5704,324215210,2026-09-12T05:08:47.000Z,Mujer,2008-05-17,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5705,Uriel,2026-09-12T05:35:43.000Z,Hombre,2008-09-18,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5706,324284197,2026-09-12T06:21:21.000Z,Hombre,2008-03-18,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5707,torresnadia_017,2026-09-12T06:42:39.000Z,Mujer,2008-10-17,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5708,324220380,2026-09-12T07:10:38.000Z,Mujer,2008-05-15,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5709,324069219,2026-09-12T12:48:39.000Z,Mujer,2007-01-22,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5710,Kendra,2026-09-12T14:15:02.000Z,Mujer,2008-10-11,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5711,324490725,2026-09-12T17:18:50.000Z,Mujer,2008-03-24,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5712,324189229,2026-09-12T17:31:34.000Z,Mujer,2007-12-29,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5713,323579609,2026-09-12T17:40:17.000Z,Mujer,2007-09-08,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5714,324123250,2026-09-12T18:33:21.000Z,Hombre,2008-06-05,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5715,324490206,2026-09-12T18:39:05.000Z,Mujer,2008-03-24,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5716,Miryam Dionicio ,2026-09-12T18:54:33.000Z,Mujer,2008-08-10,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5717,324490512,2026-09-12T18:57:52.000Z,Mujer,2008-09-19,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5718,324281907,2026-09-12T19:01:19.000Z,Mujer,2008-11-06,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5719,324324464,2026-09-12T19:17:10.000Z,Mujer,2008-01-23,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5720,324095344,2026-09-12T19:48:23.000Z,Mujer,2008-04-08,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5721,Zucaritas53,2026-09-12T20:04:01.000Z,Hombre,2008-03-01,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5722,324197015,2026-09-12T20:37:32.000Z,Mujer,2008-09-27,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5723,324252802,2026-09-12T20:45:40.000Z,Mujer,2007-04-14,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5724,juanfarjeat,2026-09-12T20:48:41.000Z,Hombre,2001-03-22,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5725,427305285,2026-09-12T20:49:13.000Z,Mujer,2007-12-12,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5726,318693921,2026-09-12T20:53:00.000Z,Hombre,2001-03-22,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5727,121000756,2026-09-12T20:53:27.000Z,Hombre,2008-08-22,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5728,lesj080712,2026-09-12T20:54:18.000Z,Hombre,2008-07-12,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5729,318623921,2026-09-12T20:55:00.000Z,Hombre,2001-03-22,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5730,324181962,2026-09-12T21:16:28.000Z,Mujer,2008-07-21,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5731,324002999,2026-09-12T22:04:09.000Z,Mujer,2007-11-13,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5732,324134346,2026-09-12T22:04:49.000Z,Mujer,2008-03-31,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5733,Sara Corona,2026-09-12T22:22:43.000Z,Mujer,2007-11-06,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5734,324064757,2026-09-12T23:14:59.000Z,Mujer,2008-09-15,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5735,324306936,2026-09-12T23:19:27.000Z,Mujer,2008-03-24,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5736,324068748,2026-09-12T23:41:52.000Z,Mujer,2008-01-05,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5737,324103199,2026-09-12T23:46:57.000Z,Mujer,2008-10-29,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5738,324252462,2026-09-13T00:28:09.000Z,Mujer,2008-04-28,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5739,324027718,2026-09-13T00:28:22.000Z,Mujer,2008-02-13,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5740,427263598,2026-09-13T00:28:25.000Z,Mujer,2008-04-10,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5741,nayshla,2026-09-13T00:30:24.000Z,Mujer,2008-03-30,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5742,324322068,2026-09-13T00:32:14.000Z,Mujer,2008-03-30,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5743,324147106,2026-09-13T00:36:25.000Z,Mujer,2005-06-04,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5744,324118379,2026-09-13T00:47:07.000Z,Mujer,2007-12-09,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5745,427290242,2026-09-13T01:21:37.000Z,Mujer,2001-10-10,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5746,324088012,2026-09-13T01:28:08.000Z,Hombre,2008-12-06,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5747,324151067,2026-09-13T01:30:10.000Z,Hombre,2008-06-01,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5748,324007585,2026-09-13T01:33:45.000Z,Mujer,2008-03-01,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5749,324046470,2026-09-13T01:46:37.000Z,Mujer,2008-09-23,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5750,324035236,2026-09-13T02:07:45.000Z,Mujer,2008-08-10,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5751,324049907,2026-09-13T02:07:50.000Z,Mujer,2008-09-24,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5752,ortiz_camacho_angel_mauricio,2026-09-13T02:11:39.000Z,Hombre,2008-04-08,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5753,324088184,2026-09-13T02:11:52.000Z,Mujer,2008-05-09,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5754,427398582,2026-09-13T02:12:09.000Z,Hombre,2008-02-26,MX,Incorporada a la SEP,10,Facultad de Medicina CU,Médico Cirujano,Sí
+5755,324215667,2026-09-13T02:12:57.000Z,Mujer,2008-08-24,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5756,324040007,2026-09-13T02:13:30.000Z,Mujer,2008-11-24,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5757,324102958,2026-09-13T02:14:28.000Z,Mujer,2008-01-17,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5758,324181728,2026-09-13T02:15:25.000Z,Hombre,2008-10-25,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5759,320181843,2026-09-13T02:16:53.000Z,Hombre,2004-02-05,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5760,324008197,2026-09-13T02:18:57.000Z,Hombre,2008-10-28,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5761,324255023,2026-09-13T02:19:18.000Z,Hombre,2008-08-06,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5762,243200,2026-09-13T02:19:21.000Z,Mujer,2008-02-18,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5763,Alele,2026-09-13T02:20:12.000Z,Mujer,2008-08-21,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5764,324047068,2026-09-13T02:20:20.000Z,Mujer,2008-11-05,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5765,324109696,2026-09-13T02:20:37.000Z,Mujer,2008-11-15,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5766,322302468,2026-09-13T02:20:46.000Z,Mujer,2006-04-09,MX,ENP 9 “Pedro de Alba”,8,Facultad de Medicina CU,Biomédica,Sí
+5767,255963,2026-09-13T02:20:47.000Z,Mujer,2009-01-26,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5768,323016643,2026-09-13T02:21:35.000Z,Mujer,2007-08-11,MX,ENP 6 “Antonio Caso”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5769,324201367,2026-09-13T02:22:25.000Z,Hombre,2008-03-12,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5770,javier_jurado,2026-09-13T02:23:04.000Z,Hombre,2008-04-15,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5771,324202759,2026-09-13T02:24:31.000Z,Hombre,2008-06-04,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5772,Pum4B0y,2026-09-13T02:27:29.000Z,Hombre,2008-10-08,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5773,121001155,2026-09-13T02:31:13.000Z,Hombre,2008-01-02,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5774,Joseling,2026-09-13T02:34:16.000Z,Mujer,2007-10-02,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5775,324014192,2026-09-13T02:37:03.000Z,Mujer,2008-02-18,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5776,324082773,2026-09-13T02:38:57.000Z,Mujer,2008-10-10,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5777,kaimpasa,2026-09-13T02:40:27.000Z,Mujer,2003-09-17,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5778,324090064,2026-09-13T02:41:19.000Z,Mujer,2008-11-11,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5779,324193237,2026-09-13T02:42:12.000Z,Mujer,2008-06-02,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5780,324217207,2026-09-13T02:47:33.000Z,Mujer,2008-06-13,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5781,324303715,2026-09-13T02:48:30.000Z,Mujer,2008-01-27,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5782,324098400,2026-09-13T02:48:56.000Z,Mujer,2008-01-05,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5783,324203433,2026-09-13T02:49:40.000Z,Mujer,2008-02-29,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5784,324102518,2026-09-13T03:04:16.000Z,Mujer,2008-02-21,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5785,324296493,2026-09-13T03:08:22.000Z,Hombre,2008-04-15,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5786,324057449,2026-09-13T03:08:35.000Z,Hombre,2008-01-23,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5787,324017320,2026-09-13T03:09:06.000Z,Mujer,2008-01-19,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5788,Annarrnn,2026-09-13T03:10:39.000Z,Mujer,2008-12-22,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5789,324033579,2026-09-13T03:11:35.000Z,Hombre,2008-11-11,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5790,Tacosdepastor2008,2026-09-13T03:12:13.000Z,Mujer,2008-07-02,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5791,324153644,2026-09-13T03:14:41.000Z,Mujer,2008-09-01,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5792,Rafael Hernandez ,2026-09-13T03:16:52.000Z,Hombre,2008-01-30,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5793,324492145,2026-09-13T03:21:23.000Z,Hombre,2008-01-30,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5794,vamj080424,2026-09-13T03:24:58.000Z,Mujer,2008-04-24,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5795,324276820,2026-09-13T03:25:38.000Z,Mujer,2008-03-18,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5796,324142802,2026-09-13T03:28:35.000Z,Hombre,2008-02-07,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5797,324172351,2026-09-13T03:28:48.000Z,Mujer,2008-07-16,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5798,lopez_gonzalez_alexia_kalid,2026-09-13T03:29:50.000Z,Mujer,2008-04-26,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5799,Pao-30,2026-09-13T03:30:12.000Z,Mujer,2008-07-30,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5800,427345861,2026-09-13T03:33:01.000Z,Mujer,2007-02-26,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5801,318035956,2026-09-13T03:34:32.000Z,Hombre,2002-08-10,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5802,324134188,2026-09-13T03:39:32.000Z,Mujer,2007-11-30,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5803,324295740,2026-09-13T03:41:57.000Z,Mujer,2008-06-29,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5804,NatalyCruz ,2026-09-13T03:42:16.000Z,Mujer,2008-07-10,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5805,324023930,2026-09-13T03:45:02.000Z,Mujer,2008-08-25,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5806,323289261,2026-09-13T03:47:24.000Z,Hombre,2007-07-20,MX,ENP 4 “Vidal Castañeda y Nájera”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5807,Yareli Potrero Tenorio ,2026-09-13T03:49:49.000Z,Mujer,2008-07-03,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5808,324090064v,2026-09-13T03:52:40.000Z,Mujer,2008-11-11,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5809,324079212,2026-09-13T04:02:52.000Z,Mujer,2008-05-22,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5810,j.copto,2026-09-13T04:04:06.000Z,Hombre,2008-01-10,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5811,324123164,2026-09-13T04:14:28.000Z,Hombre,2008-04-01,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5812,324152393,2026-09-13T04:15:38.000Z,Hombre,2008-04-20,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5813,324318225,2026-09-13T04:22:28.000Z,Hombre,2008-01-09,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5814,324318476,2026-09-13T04:29:18.000Z,Mujer,2008-03-13,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5815,324103261,2026-09-13T04:41:06.000Z,Hombre,2008-09-18,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5816,324033270,2026-09-13T04:42:00.000Z,Mujer,2008-08-06,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5817,324084478,2026-09-13T04:42:58.000Z,Mujer,2008-07-21,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5818,427361065,2026-09-13T04:43:25.000Z,Mujer,2008-12-16,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5819,Danaesil1-,2026-09-13T04:46:10.000Z,Mujer,2008-07-03,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5820,322120208,2026-09-13T04:49:44.000Z,Hombre,2006-08-20,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5821,DAN43,2026-09-13T04:57:07.000Z,Mujer,2008-07-03,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5822,324305544,2026-09-13T04:57:08.000Z,Hombre,2008-08-13,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5823,324268137,2026-09-13T05:14:57.000Z,Hombre,2008-10-31,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5824,121006435,2026-09-13T05:22:19.000Z,Mujer,2008-10-11,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5825,324208809,2026-09-13T05:24:00.000Z,Mujer,2008-01-07,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5826,427370360,2026-09-13T05:26:55.000Z,Mujer,2026-08-03,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5827,324227231,2026-09-13T05:29:25.000Z,Mujer,2008-05-20,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5828,324284513,2026-09-13T05:31:05.000Z,Mujer,2008-07-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5829,324255580,2026-09-13T05:32:33.000Z,Mujer,2008-02-23,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5830,324049794,2026-09-13T05:33:37.000Z,Hombre,2008-01-11,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5831,427250185,2026-09-13T05:49:13.000Z,Mujer,2007-05-27,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5832,324036343,2026-09-13T06:26:52.000Z,Mujer,2006-12-26,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5833,324310889,2026-09-13T06:48:14.000Z,Mujer,2008-07-13,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5834,324067985,2026-09-13T07:00:16.000Z,Mujer,2008-01-11,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5835,324057858,2026-09-13T07:31:00.000Z,Mujer,2008-06-11,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5836,324201570,2026-09-13T07:41:28.000Z,Hombre,2008-09-08,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5837,324271131,2026-09-13T08:26:02.000Z,Mujer,2008-03-21,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5838,324491571,2026-09-13T13:44:55.000Z,Mujer,2008-01-31,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5839,isa_b3ll590,2026-09-13T14:37:11.000Z,Mujer,2008-07-22,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5840,324282409,2026-09-13T14:40:20.000Z,Mujer,2008-04-26,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5842,lizbeth_656,2026-09-13T15:15:29.000Z,Mujer,2008-02-04,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5843,324170649,2026-09-13T15:23:59.000Z,Mujer,2008-05-30,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5844,324264218,2026-09-13T16:12:51.000Z,Hombre,2008-04-09,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5845,324328352,2026-09-13T16:20:12.000Z,Mujer,2008-02-29,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5846,324307689,2026-09-13T16:21:05.000Z,Mujer,2008-08-02,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5847,Saphigigi,2026-09-13T16:24:33.000Z,Mujer,2007-04-08,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5848,324233061,2026-09-13T16:27:40.000Z,Mujer,2008-07-20,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5849,427291146,2026-09-13T16:55:54.000Z,Mujer,2008-09-04,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5850,aame081201,2026-09-13T16:58:55.000Z,Hombre,2008-12-01,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5851,323106850,2026-09-13T17:00:15.000Z,Mujer,2007-09-26,MX,ENP 9 “Pedro de Alba”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5852,3241l02192,2026-09-13T17:15:36.000Z,Mujer,2008-02-19,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5853,324185166,2026-09-13T17:20:15.000Z,Hombre,2008-02-19,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5854,324305,2026-09-13T17:25:33.000Z,Mujer,2008-06-19,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5855,324233102,2026-09-13T17:26:21.000Z,Mujer,2008-06-05,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5856,324225787,2026-09-13T17:27:32.000Z,Mujer,2008-01-15,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,No
+5857,324324505 ,2026-09-13T17:27:57.000Z,Mujer,2008-04-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5858,324243820,2026-09-13T17:33:17.000Z,Hombre,2008-02-08,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5859,Diego_4007,2026-09-13T17:42:25.000Z,Hombre,2008-06-01,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5860,324279175,2026-09-13T17:48:19.000Z,Mujer,2008-02-21,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5861,Deirman,2026-09-13T17:49:42.000Z,Hombre,0200-12-01,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5862,427364169,2026-09-13T17:53:22.000Z,Mujer,2008-10-23,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5863,324074334,2026-09-13T18:02:05.000Z,Hombre,2008-02-06,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5864,324086537,2026-09-13T18:05:50.000Z,Mujer,2008-04-03,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5865,324010390,2026-09-13T18:10:10.000Z,Hombre,2008-05-29,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5866,324088407,2026-09-13T18:14:00.000Z,Mujer,2008-10-26,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5867,324126323,2026-09-13T18:16:52.000Z,Mujer,2007-09-07,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5868,324240142,2026-09-13T18:17:10.000Z,Mujer,2008-07-07,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5869,324066830,2026-09-13T18:18:19.000Z,Mujer,2008-07-15,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5870,324258488,2026-09-13T18:18:37.000Z,Hombre,2008-05-17,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5871,Rodrigo Torres,2026-09-13T18:21:28.000Z,Hombre,2008-08-20,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5872,324124604,2026-09-13T18:23:09.000Z,Mujer,2008-06-29,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5873,adelsrc,2026-09-13T18:28:04.000Z,Hombre,2007-08-31,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5874,324148244,2026-09-13T18:38:10.000Z,Mujer,2008-03-01,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5875,324034260,2026-09-13T19:01:17.000Z,Hombre,2008-08-23,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5876,418007143,2026-09-13T19:04:56.000Z,Hombre,1996-02-06,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5877,324168965,2026-09-13T19:12:38.000Z,Mujer,2007-04-20,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5878,324318445,2026-09-13T19:13:14.000Z,Hombre,2008-02-27,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5879,324110483,2026-09-13T19:31:37.000Z,Mujer,2008-05-21,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5880,324148316,2026-09-13T19:32:43.000Z,Mujer,2008-04-03,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5881,324175637,2026-09-13T19:40:38.000Z,Mujer,2008-02-24,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5882,324109830,2026-09-13T19:47:54.000Z,Hombre,2008-11-24,MX,ENP 3 “Justo Sierra”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5883,Denisserr08,2026-09-13T19:56:01.000Z,Mujer,2008-06-26,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5884,324250286,2026-09-13T19:58:16.000Z,Hombre,2008-12-11,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5885,324262771,2026-09-13T19:58:24.000Z,Mujer,2008-07-21,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5886,324168226,2026-09-13T20:00:57.000Z,Mujer,2008-02-17,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5887,324189597,2026-09-13T20:01:46.000Z,Mujer,2008-08-18,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5888,324272248,2026-09-13T20:03:02.000Z,Mujer,2007-06-13,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5889,324279450,2026-09-13T20:03:33.000Z,Mujer,2008-04-16,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5890,319170795,2026-09-13T20:03:41.000Z,Hombre,2003-05-20,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5891,324078253,2026-09-13T20:04:01.000Z,Mujer,2002-02-21,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5892,324034349,2026-09-13T20:04:11.000Z,Mujer,2007-08-31,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5893,324063640,2026-09-13T20:05:15.000Z,Mujer,2008-02-03,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5894,324135257,2026-09-13T20:05:40.000Z,Mujer,2008-05-22,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5895,324200346,2026-09-13T20:07:05.000Z,Mujer,2008-09-12,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5896,Dave_4084,2026-09-13T20:07:30.000Z,Hombre,2002-10-28,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5897,samsam_vl7,2026-09-13T20:07:34.000Z,Mujer,2007-04-20,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5898,324195224,2026-09-13T20:08:11.000Z,Hombre,2008-03-26,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5899,Angel Tinoco,2026-09-13T20:09:12.000Z,Hombre,2008-11-30,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5900,324105210,2026-09-13T20:09:16.000Z,Mujer,2008-11-12,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5902,Ricardo_Perez,2026-09-13T20:11:11.000Z,Hombre,2003-04-05,MX,Colegio de Bachilleres,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5903,324283035,2026-09-13T20:11:30.000Z,Mujer,2008-07-02,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5904,324229369,2026-09-13T20:13:02.000Z,Mujer,2008-04-29,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5905,427365472,2026-09-13T20:15:20.000Z,Mujer,2006-10-24,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5906,324039791,2026-09-13T20:17:19.000Z,Hombre,2008-06-21,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5907,Angel Erandi Ramos Galindo ,2026-09-13T20:23:59.000Z,Mujer,2008-04-14,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5908,324306981,2026-09-13T20:29:04.000Z,Hombre,2008-01-25,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5909,324309975,2026-09-13T20:31:01.000Z,Mujer,2008-06-18,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5910,324299087,2026-09-13T20:31:32.000Z,Hombre,2008-04-11,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5911,324137990,2026-09-13T20:35:53.000Z,Mujer,2008-05-19,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5912,324265789,2026-09-13T20:37:41.000Z,Mujer,2008-02-03,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5913,324033232,2026-09-13T20:37:43.000Z,Mujer,2007-03-22,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5914,324020104,2026-09-13T20:37:48.000Z,Hombre,0005-11-07,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5915,Fernanda Calva,2026-09-13T20:37:58.000Z,Mujer,2007-02-21,MX,ENP 8 “Miguel E. Schulz”,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5916,324164039,2026-09-13T20:43:10.000Z,Mujer,2008-01-25,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5917,324113563,2026-09-13T20:44:58.000Z,Hombre,2008-07-26,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5918,324020630,2026-09-13T20:46:25.000Z,Mujer,2008-09-06,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5919,427366132,2026-09-13T20:48:50.000Z,Hombre,2006-12-20,MX,Colegio de Bachilleres,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5920,324175981,2026-09-13T20:54:07.000Z,Mujer,2008-09-02,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5921,324324220,2026-09-13T20:56:18.000Z,Mujer,2008-02-29,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5922,Monpintor,2026-09-13T20:56:20.000Z,Mujer,2008-08-21,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5923,121002509,2026-09-13T21:00:38.000Z,Mujer,2008-08-25,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5924,DanRuíz,2026-09-13T21:04:59.000Z,Mujer,2008-01-11,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5925,324224807,2026-09-13T21:05:18.000Z,Mujer,2008-08-21,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5926,323013233,2026-09-13T21:11:21.000Z,Hombre,2007-01-03,MX,ENP 9 “Pedro de Alba”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5927,322239218,2026-09-13T21:15:46.000Z,Mujer,2006-08-02,MX,ENP 6 “Antonio Caso”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5928,324059852,2026-09-13T21:18:59.000Z,Mujer,2008-08-31,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5929,121004929,2026-09-13T21:20:12.000Z,Hombre,2008-09-12,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5930,324164118,2026-09-13T21:20:31.000Z,Mujer,2008-03-17,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5931,324271186,2026-09-13T21:36:13.000Z,Mujer,2008-06-28,MX,ENP 5 “José Vasconcelos”,10,Facultad de Medicina CU,Médico Cirujano,Sí
+5932,anapaolarp2308,2026-09-13T21:37:03.000Z,Mujer,2005-08-23,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5933,324054668,2026-09-13T21:37:38.000Z,Mujer,2008-07-13,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5934,chico_hernandez_andrea_citlalli,2026-09-13T21:40:14.000Z,Mujer,2026-04-05,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5935,Alexandra,2026-09-13T21:41:26.000Z,Mujer,2001-12-30,MX,CCH Oriente,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5936,324110359,2026-09-13T21:44:30.000Z,Hombre,2007-06-19,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5937,meom080303,2026-09-13T21:44:38.000Z,Mujer,2008-03-03,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5938,324186510,2026-09-13T21:52:17.000Z,Mujer,2008-10-22,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5939,Enrique Iván Salazar Casas,2026-09-13T22:01:28.000Z,Hombre,2001-10-27,MX,Incorporada a la SEP,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5940,Mar,2026-09-13T22:07:33.000Z,Mujer,2008-05-08,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5941,324106248,2026-09-13T22:09:08.000Z,Mujer,2008-08-16,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5942,324106523,2026-09-13T22:15:03.000Z,Mujer,2008-03-03,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5943,121005768,2026-09-13T22:19:25.000Z,Hombre,2008-12-04,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5944,pela080929,2026-09-13T22:20:50.000Z,Mujer,2008-09-29,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5945,324244236,2026-09-13T22:28:01.000Z,Hombre,2008-08-23,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5946,325031788,2026-09-13T22:31:50.000Z,Mujer,2008-05-25,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5947,324031788,2026-09-13T22:39:14.000Z,Mujer,2008-05-25,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5948,324232624,2026-09-13T22:43:09.000Z,Hombre,2008-10-10,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5949,324004065,2026-09-13T22:44:51.000Z,Mujer,2008-11-10,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5950,324028296,2026-09-13T23:00:12.000Z,Mujer,2008-01-30,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5951,324184035,2026-09-13T23:00:28.000Z,Hombre,2008-06-07,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5952,324199404,2026-09-13T23:04:59.000Z,Mujer,2007-02-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5953,Maximo rebollat,2026-09-13T23:06:55.000Z,Hombre,2008-07-10,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5954,montse,2026-09-13T23:09:49.000Z,Mujer,2007-11-10,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5955,Oscar Nieto,2026-09-13T23:13:56.000Z,Hombre,2008-04-04,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5956,324102460,2026-09-13T23:26:58.000Z,Hombre,2008-03-13,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5957,324236488,2026-09-13T23:28:05.000Z,Mujer,2008-01-17,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5958,Mork080101,2026-09-13T23:34:04.000Z,Mujer,2008-01-01,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5959,324492781,2026-09-13T23:35:03.000Z,Mujer,2007-12-22,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5960,324044366,2026-09-13T23:35:37.000Z,Hombre,2008-04-01,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5961,121005902,2026-09-13T23:36:01.000Z,Hombre,2008-03-14,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5962,sambc,2026-09-13T23:54:05.000Z,Mujer,2008-07-31,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5963,324061141,2026-09-14T00:03:03.000Z,Hombre,2008-11-15,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5964,324006100,2026-09-14T00:05:14.000Z,Mujer,2007-10-04,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5965,121006428,2026-09-14T00:05:38.000Z,Hombre,2008-08-30,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5966,324158694,2026-09-14T00:05:48.000Z,Mujer,2008-10-06,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5967,PSGL324273805,2026-09-14T00:06:36.000Z,Mujer,2008-06-06,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5968,324273805,2026-09-14T00:12:19.000Z,Mujer,2008-06-06,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Biomédica,Sí
+5969,324242421,2026-09-14T00:14:53.000Z,Mujer,2008-03-28,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5970,324146927,2026-09-14T00:17:02.000Z,Mujer,2008-11-01,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5971,324266542,2026-09-14T00:22:48.000Z,Hombre,2008-02-21,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5972,324178559,2026-09-14T00:28:23.000Z,Mujer,2008-07-31,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5973,324197259,2026-09-14T00:38:28.000Z,Hombre,2008-07-29,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5974,324128303,2026-09-14T00:39:11.000Z,Mujer,2008-03-17,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5975,324070123,2026-09-14T00:44:17.000Z,Hombre,2008-07-13,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5976,324188868,2026-09-14T00:47:05.000Z,Hombre,2008-12-19,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5977,322022236,2026-09-14T00:47:58.000Z,Mujer,2006-02-25,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5978,324050316,2026-09-14T00:48:35.000Z,Hombre,2008-03-13,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5979,324187706,2026-09-14T00:49:40.000Z,Hombre,2008-07-25,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5980,322121975,2026-09-14T00:49:54.000Z,Hombre,2006-08-28,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+5981,324216963,2026-09-14T00:53:27.000Z,Mujer,2008-12-24,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5982,324287992,2026-09-14T00:55:41.000Z,Mujer,2007-12-20,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5983,cecilia_valenzuela,2026-09-14T01:02:56.000Z,Mujer,2008-08-26,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5984,324072938,2026-09-14T01:06:07.000Z,Hombre,2008-01-28,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5985,324151664,2026-09-14T01:06:38.000Z,Hombre,2008-04-16,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5986,324256068,2026-09-14T01:07:55.000Z,Mujer,2008-07-19,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5987,324177765,2026-09-14T01:10:14.000Z,Mujer,2008-10-30,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5988,324035566,2026-09-14T01:11:55.000Z,Mujer,2007-05-31,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5989,Celia Tello,2026-09-14T01:15:21.000Z,Mujer,2008-09-03,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5990,gaba21042008,2026-09-14T01:15:29.000Z,Hombre,2008-04-21,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5991,324243150,2026-09-14T01:16:52.000Z,Hombre,2008-11-22,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5992,324251740,2026-09-14T01:17:18.000Z,Mujer,2008-04-29,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5993,427393439,2026-09-14T01:18:01.000Z,Mujer,2008-10-08,MX,Incorporada a la SEP,10,Facultad de Medicina CU,Médico Cirujano,Sí
+5994,324184004,2026-09-14T01:20:27.000Z,Hombre,2007-07-27,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5995,427311967,2026-09-14T01:21:18.000Z,Hombre,2006-04-13,MX,Otra,7,Facultad de Medicina CU,Médico Cirujano,Sí
+5996,324219232,2026-09-14T01:22:29.000Z,Hombre,2008-10-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5997,324109397,2026-09-14T01:23:45.000Z,Hombre,2008-01-06,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5998,324324141,2026-09-14T01:25:05.000Z,Mujer,2008-01-13,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+5999,324195042,2026-09-14T01:25:15.000Z,Mujer,2008-02-23,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6000,lauraitati1@,2026-09-14T01:25:23.000Z,Mujer,2008-04-17,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6001,322647600,2026-09-14T01:26:18.000Z,Hombre,2005-04-30,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6002,Flor Ortiz,2026-09-14T01:27:40.000Z,Mujer,2008-01-22,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6003,319509489,2026-09-14T01:28:17.000Z,Mujer,2002-02-26,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6004,yabril1618@gmail.com,2026-09-14T01:33:00.000Z,Mujer,2008-01-18,MX,ENP 9 “Pedro de Alba”,10,Facultad de Medicina CU,Médico Cirujano,Sí
+6005,427276293,2026-09-14T01:33:59.000Z,Mujer,2007-01-25,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6006,320291317,2026-09-14T01:36:50.000Z,Hombre,2004-08-25,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6007,324203158,2026-09-14T01:38:48.000Z,Mujer,2008-10-18,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6008,324112573,2026-09-14T01:40:14.000Z,Mujer,2008-01-24,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6009,324000270,2026-09-14T01:42:26.000Z,Hombre,2008-06-16,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6010,427279115,2026-09-14T01:45:04.000Z,Hombre,2008-10-12,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6011,324073179,2026-09-14T01:45:31.000Z,Mujer,2008-09-08,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6012,324100813,2026-09-14T01:48:39.000Z,Mujer,2008-07-22,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6013,324049086,2026-09-14T01:49:02.000Z,Mujer,2007-06-11,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6014,324102642,2026-09-14T01:50:16.000Z,Mujer,2007-01-24,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6015,324055641,2026-09-14T01:53:07.000Z,Mujer,2007-09-15,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6016,324270598,2026-09-14T01:54:27.000Z,Mujer,2005-04-03,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6017,317193686,2026-09-14T01:54:29.000Z,Mujer,2001-03-14,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6018,324063705,2026-09-14T01:55:23.000Z,Mujer,2008-05-06,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6019,324097056,2026-09-14T01:56:37.000Z,Mujer,2008-01-09,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6020,324170618,2026-09-14T01:58:40.000Z,Mujer,2008-07-01,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6021,ugalde_gonzalez_victoria,2026-09-14T02:00:47.000Z,Mujer,2008-03-19,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6022,324012992,2026-09-14T02:05:49.000Z,Hombre,2008-10-07,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6023,324131039,2026-09-14T02:07:18.000Z,Mujer,2008-09-02,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6024,324047288,2026-09-14T02:13:15.000Z,Mujer,2008-06-23,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6025,magana_azulv8,2026-09-14T02:16:25.000Z,Prefiero no decirlo,2008-11-05,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6026,427347580,2026-09-14T02:17:26.000Z,Hombre,1998-05-17,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6027,Vaniaat,2026-09-14T02:19:16.000Z,Mujer,2008-06-14,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6028,324211724,2026-09-14T02:23:48.000Z,Mujer,2007-07-27,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6029,324031922,2026-09-14T02:25:21.000Z,Mujer,2008-07-12,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6030,324149681,2026-09-14T02:25:23.000Z,Hombre,2008-04-11,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6031,324317493,2026-09-14T02:27:09.000Z,Mujer,2008-02-15,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6032,324264139,2026-09-14T02:29:30.000Z,Mujer,2008-10-22,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6033,324128846,2026-09-14T02:29:38.000Z,Mujer,2007-11-27,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6034,324271368,2026-09-14T02:31:45.000Z,Mujer,2008-11-12,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6035,324143610,2026-09-14T02:32:33.000Z,Mujer,2008-09-04,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6036,Alansin,2026-09-14T02:33:28.000Z,Hombre,2008-04-28,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6037,GUADALUPE SIXTO ,2026-09-14T02:33:31.000Z,Mujer,2007-12-10,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6038,Ramdel,2026-09-14T02:38:45.000Z,Mujer,2008-02-04,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6039,324259739,2026-09-14T02:39:42.000Z,Hombre,2008-04-26,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6040,324964939,2026-09-14T02:42:01.000Z,Hombre,2008-07-21,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6041,324260258,2026-09-14T02:42:32.000Z,Mujer,2008-04-16,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6042,324324134,2026-09-14T02:45:20.000Z,Mujer,2008-07-09,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6043,324160093,2026-09-14T02:51:19.000Z,Hombre,2008-12-16,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6044,324181508,2026-09-14T02:55:38.000Z,Mujer,2008-08-05,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6045,324039258,2026-09-14T02:57:48.000Z,Hombre,2008-03-03,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6046,324036848,2026-09-14T02:59:20.000Z,Hombre,2008-10-29,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6047,324143971,2026-09-14T02:59:52.000Z,Mujer,2008-04-10,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6048,324286627,2026-09-14T03:00:52.000Z,Hombre,2008-12-13,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6049,324068353,2026-09-14T03:04:37.000Z,Mujer,2008-05-16,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6050,324491478,2026-09-14T03:05:47.000Z,Mujer,2008-05-07,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6051,324329438,2026-09-14T03:12:23.000Z,Mujer,2008-08-13,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6052,324284128,2026-09-14T03:16:08.000Z,Hombre,2008-02-22,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6053,324158371,2026-09-14T03:17:23.000Z,Hombre,2008-06-08,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6054,121001605,2026-09-14T03:26:39.000Z,Mujer,2008-07-11,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6055,324168635,2026-09-14T03:28:12.000Z,Hombre,2008-04-25,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6056,427277197,2026-09-14T03:28:14.000Z,Hombre,2007-03-22,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6057,324031661,2026-09-14T03:30:17.000Z,Mujer,2008-10-31,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6058,Horaciogp.,2026-09-14T03:37:05.000Z,Hombre,2008-11-23,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6059,324318861,2026-09-14T03:40:32.000Z,Mujer,2008-04-21,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6060,Kifer,2026-09-14T03:41:04.000Z,Hombre,2008-02-20,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6061,427277362,2026-09-14T03:43:14.000Z,Hombre,2007-11-08,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+6062,324217907,2026-09-14T03:44:25.000Z,Hombre,2008-07-29,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6063,cam_j,2026-09-14T03:47:55.000Z,Mujer,2008-06-19,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6064,427350508,2026-09-14T03:50:01.000Z,Hombre,2008-11-07,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6065,324172272,2026-09-14T03:50:58.000Z,Hombre,2008-12-26,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6066,Horaciogregorio,2026-09-14T03:54:20.000Z,Hombre,2008-11-23,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6067,324013455,2026-09-14T03:56:35.000Z,Mujer,2008-08-09,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6068,324001318,2026-09-14T04:00:08.000Z,Mujer,2008-09-13,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6069,324215461,2026-09-14T04:01:39.000Z,Mujer,2008-11-10,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6070,32416863-5,2026-09-14T04:02:36.000Z,Hombre,2008-04-25,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6071,324038134,2026-09-14T04:10:01.000Z,Mujer,2008-02-27,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6072,324288542,2026-09-14T04:11:41.000Z,Hombre,2007-08-21,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6073,Pablo_Iván,2026-09-14T04:11:54.000Z,Hombre,2007-10-27,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6074,Cruz Pérez Leonardo Daniel ,2026-09-14T04:15:02.000Z,Hombre,2007-06-11,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6075,Vania,2026-09-14T04:22:20.000Z,Mujer,2007-12-22,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6076,121002073,2026-09-14T04:22:32.000Z,Hombre,2008-11-09,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6077,324321298,2026-09-14T04:23:07.000Z,Mujer,2007-11-04,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6078,324203309,2026-09-14T04:27:02.000Z,Hombre,2007-11-13,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6079,324307988,2026-09-14T04:37:31.000Z,Mujer,2008-08-13,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6080,324034071,2026-09-14T04:39:42.000Z,Mujer,2005-05-12,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6081,324121995,2026-09-14T04:43:25.000Z,Hombre,2008-03-22,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6082,324170405,2026-09-14T04:52:24.000Z,Mujer,2008-05-08,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6083,324217836,2026-09-14T04:54:33.000Z,Hombre,2008-01-24,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6084,324075173,2026-09-14T04:56:27.000Z,Hombre,2008-04-20,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6085,324245271 ,2026-09-14T05:02:33.000Z,Mujer,2007-02-02,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6086,324126031,2026-09-14T05:03:21.000Z,Mujer,2008-09-19,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6087,324312041,2026-09-14T05:04:49.000Z,Mujer,2007-08-30,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6088,324041808,2026-09-14T05:04:51.000Z,Mujer,2008-10-19,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6089,324234549,2026-09-14T05:11:38.000Z,Hombre,2008-10-27,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6090,324004209,2026-09-14T05:13:13.000Z,Mujer,2008-08-31,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6091,324037539,2026-09-14T05:17:12.000Z,Hombre,2008-04-29,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6092,427254145,2026-09-14T05:17:53.000Z,Mujer,2007-10-03,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6093,nicole_viguev,2026-09-14T05:27:31.000Z,Mujer,2008-04-02,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6094,324148653,2026-09-14T05:29:39.000Z,Mujer,2007-03-26,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6095,324023631,2026-09-14T05:36:34.000Z,Mujer,2008-01-25,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6096,324174843,2026-09-14T05:47:09.000Z,Mujer,2008-07-11,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6097,324108974,2026-09-14T05:53:03.000Z,Mujer,2008-04-13,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6098,Pao1711,2026-09-14T06:09:20.000Z,Mujer,2008-06-23,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6099,320340783,2026-09-14T06:11:48.000Z,Mujer,2004-03-13,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6100,324125663,2026-09-14T06:21:32.000Z,Mujer,2008-08-23,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6101,324016550,2026-09-14T06:26:12.000Z,Mujer,2008-06-23,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6102,322298051,2026-09-14T06:26:40.000Z,Mujer,2006-02-14,MX,CCH Sur,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6103,427376221,2026-09-14T06:49:30.000Z,Hombre,2008-05-17,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6104,323093134,2026-09-14T07:31:30.000Z,Mujer,2007-04-17,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6105,324251393,2026-09-14T07:51:00.000Z,Mujer,2007-08-25,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6106,324264548,2026-09-14T08:02:04.000Z,Mujer,2008-06-13,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6108,324169302,2026-09-14T13:02:54.000Z,Hombre,2008-12-20,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6109,saav080407,2026-09-14T13:09:01.000Z,Mujer,2008-04-07,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6110,324144947,2026-09-14T13:10:24.000Z,Mujer,2008-06-13,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6111,324094244,2026-09-14T13:10:52.000Z,Mujer,2008-01-05,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6112,mc27zacs7733@facmed.unam.mx,2026-09-14T13:11:49.000Z,Mujer,2008-09-09,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6113,324161643,2026-09-14T13:18:56.000Z,Mujer,2008-04-03,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6114,324216420,2026-09-14T13:23:39.000Z,Mujer,2008-06-12,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6115,322329212,2026-09-14T13:44:08.000Z,Mujer,2006-05-06,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6116,324298088,2026-09-14T13:51:42.000Z,Mujer,2008-03-31,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6117,324008908,2026-09-14T14:05:40.000Z,Hombre,2008-05-19,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6118,diegoarm,2026-09-14T14:12:14.000Z,Hombre,2007-10-09,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6119,324184406,2026-09-14T14:19:19.000Z,Mujer,2008-12-09,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6120,Mar2008,2026-09-14T14:35:03.000Z,Mujer,2008-06-13,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6121,324153929,2026-09-14T15:07:08.000Z,Mujer,2008-08-13,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6122,casa080426,2026-09-14T15:07:31.000Z,Hombre,2008-04-26,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6123,gael gonzalo de la cruz salazar ,2026-09-14T15:11:24.000Z,Hombre,2008-02-06,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6124,324105667,2026-09-14T15:12:01.000Z,Hombre,2008-06-22,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6125,121000581,2026-09-14T15:14:13.000Z,Mujer,2008-04-23,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6126,marin_vazquez_ingrid_victoria,2026-09-14T15:14:37.000Z,Mujer,2008-01-29,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,No
+6127,324015010,2026-09-14T15:48:08.000Z,Mujer,2008-04-09,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6128,324492877,2026-09-14T15:53:03.000Z,Hombre,2007-03-17,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6129,makako,2026-09-14T16:00:20.000Z,Hombre,2007-03-07,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6131,varm070126,2026-09-14T16:21:40.000Z,Hombre,2007-01-26,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6132,324013092,2026-09-14T16:27:14.000Z,Mujer,2008-11-11,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6133,324025202,2026-09-14T16:36:28.000Z,Hombre,2008-07-07,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,No
+6134,324178975,2026-09-14T16:38:20.000Z,Hombre,2008-01-24,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6135,hdz.aragon.ayelen,2026-09-14T16:46:25.000Z,Mujer,2008-12-01,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6136,Hugo carrillo ,2026-09-14T16:48:23.000Z,Hombre,2007-11-19,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6137,324271746,2026-09-14T16:49:59.000Z,Mujer,2008-12-01,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6138,324107197,2026-09-14T17:06:04.000Z,Mujer,2008-02-28,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6140,324048845,2026-09-14T18:15:58.000Z,Mujer,2008-03-01,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6141,121000206,2026-09-14T18:18:32.000Z,Mujer,2008-05-17,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6142,324226155,2026-09-14T18:30:34.000Z,Hombre,2008-07-28,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6143,324132397,2026-09-14T19:47:36.000Z,Hombre,2008-07-04,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6144,324184248,2026-09-14T20:02:51.000Z,Mujer,2008-10-01,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6145,324172069,2026-09-14T20:18:37.000Z,Hombre,2008-10-17,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6146,324321920,2026-09-14T20:29:05.000Z,Mujer,2008-03-07,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6147,324058350,2026-09-14T20:35:45.000Z,Mujer,2008-05-29,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6148,324132445,2026-09-14T21:33:47.000Z,Mujer,2008-02-10,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6149,324062825,2026-09-14T21:45:06.000Z,Mujer,2007-12-05,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6150,324193031,2026-09-14T21:51:51.000Z,Prefiero no decirlo,2008-02-26,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6151,324258660,2026-09-14T22:32:56.000Z,Hombre,2008-11-04,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6152,427304161,2026-09-14T22:46:37.000Z,Hombre,2007-08-10,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6153,323283574,2026-09-14T22:47:38.000Z,Hombre,2007-03-28,MX,CCH Azcapotzalco,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6154,324270794,2026-09-14T22:52:47.000Z,Hombre,2008-03-27,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6155,Jpa1027,2026-09-14T22:55:10.000Z,Hombre,2005-06-14,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6156,324280917,2026-09-14T22:55:17.000Z,Hombre,2008-06-29,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6158,324191408,2026-09-14T23:18:15.000Z,Mujer,2008-01-10,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6159,324310968,2026-09-14T23:20:43.000Z,Mujer,2008-08-14,MX,ENP 2 “Erasmo Castellanos Quinto”,10,Facultad de Medicina CU,Médico Cirujano,Sí
+6160,427305230,2026-09-14T23:22:30.000Z,Mujer,2007-08-29,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6161,323289735,2026-09-14T23:23:32.000Z,Mujer,2007-04-08,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6162,Monroygael,2026-09-14T23:27:21.000Z,Hombre,2007-01-02,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6163,TIAR28,2026-09-14T23:31:39.000Z,Mujer,2008-04-03,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6164,324123432,2026-09-14T23:35:07.000Z,Mujer,2008-12-29,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6165,Sara Lima,2026-09-14T23:51:47.000Z,Mujer,2008-05-22,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6166,324214282,2026-09-15T00:00:03.000Z,Mujer,2007-11-22,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6167,324292048,2026-09-15T00:10:48.000Z,Mujer,2008-08-07,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6168,324063468,2026-09-15T00:21:53.000Z,Mujer,2008-05-30,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6169,Maguen,2026-09-15T00:23:15.000Z,Mujer,2008-01-03,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6170,324295850,2026-09-15T00:24:10.000Z,Hombre,2007-04-18,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6171,paola_sf,2026-09-15T00:26:10.000Z,Mujer,2008-10-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6172,324315509,2026-09-15T00:34:09.000Z,Mujer,2008-01-10,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6173,322090240,2026-09-15T00:44:44.000Z,Mujer,2006-01-23,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6174,324187964,2026-09-15T00:48:34.000Z,Mujer,2007-08-27,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6175,324108802,2026-09-15T00:51:48.000Z,Mujer,2008-07-27,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6176,vigb1234,2026-09-15T01:02:21.000Z,Mujer,2008-09-22,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6177,324039526,2026-09-15T01:13:20.000Z,Mujer,2008-08-15,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6178,324145621,2026-09-15T01:16:45.000Z,Mujer,2008-01-17,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6179,324018286,2026-09-15T01:27:08.000Z,Mujer,2008-12-23,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6180,Maximo_Berdeja ,2026-09-15T01:27:21.000Z,Hombre,2008-04-08,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6181,Sebastián Ramírez Espejel,2026-09-15T01:30:55.000Z,Hombre,2008-02-19,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6182,32425265868,2026-09-15T01:52:36.000Z,Mujer,2008-01-13,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6183,324070800,2026-09-15T01:52:39.000Z,Mujer,2008-11-04,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6184,Luz_Castro,2026-09-15T02:00:25.000Z,Mujer,2008-11-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6185,admin2020,2026-09-15T02:00:43.000Z,Mujer,2007-03-23,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6186,324295331,2026-09-15T02:06:00.000Z,Mujer,2007-02-19,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6187,427063006,2026-09-15T02:29:19.000Z,Hombre,2007-02-09,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6188,323287157,2026-09-15T02:36:08.000Z,Mujer,2007-10-05,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6189,324211968,2026-09-15T02:39:58.000Z,Mujer,2008-04-14,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6190,324072639,2026-09-15T02:41:53.000Z,Hombre,2008-11-16,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6191,324283626,2026-09-15T02:45:25.000Z,Hombre,2008-02-19,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6192,324078899,2026-09-15T02:50:07.000Z,Mujer,2008-08-04,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6193,324119709,2026-09-15T02:56:54.000Z,Mujer,2008-01-17,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6194,324083921,2026-09-15T02:58:49.000Z,Hombre,2008-09-30,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6195,324033098,2026-09-15T02:59:38.000Z,Hombre,2008-06-07,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6196,324254961,2026-09-15T03:01:13.000Z,Hombre,2008-03-07,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6197,324317417,2026-09-15T03:05:34.000Z,Hombre,2008-02-28,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6198,324106499,2026-09-15T03:10:09.000Z,Mujer,2008-01-18,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6199,barby777,2026-09-15T03:24:26.000Z,Mujer,2008-07-17,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6200,324069941,2026-09-15T03:25:21.000Z,Hombre,2008-01-25,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6201,324029633,2026-09-15T03:30:13.000Z,Hombre,2007-08-04,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6202,324323539,2026-09-15T03:32:05.000Z,Mujer,2008-05-14,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6203,324225361,2026-09-15T03:34:40.000Z,Mujer,0008-02-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6204,324301429,2026-09-15T03:38:21.000Z,Mujer,2008-12-05,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6205,324120424,2026-09-15T03:39:08.000Z,Mujer,2008-02-25,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6206,324014855,2026-09-15T03:39:54.000Z,Mujer,2008-06-04,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6207,427287255,2026-09-15T03:40:37.000Z,Mujer,2007-06-27,MX,Otra,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6208,320225534,2026-09-15T03:42:15.000Z,Mujer,2004-06-05,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6209,Valemapv,2026-09-15T03:42:45.000Z,Mujer,2008-04-14,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6210,324310188,2026-09-15T03:44:16.000Z,Mujer,2008-04-09,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6211,Bmny25,2026-09-15T03:45:01.000Z,Mujer,2008-06-25,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6212,324140554,2026-09-15T03:51:57.000Z,Hombre,2007-06-03,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6213,323074018,2026-09-15T03:54:43.000Z,Hombre,2007-04-19,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6214,Ara1125,2026-09-15T04:01:36.000Z,Mujer,2006-03-18,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6215,XimenaP,2026-09-15T04:07:29.000Z,Mujer,2008-09-22,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6216,324128970,2026-09-15T04:08:51.000Z,Mujer,2007-06-05,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6217,324147560,2026-09-15T04:10:21.000Z,Mujer,2008-02-25,MX,CCH Oriente,9,Facultad de Medicina CU,Biomédica,Sí
+6218,324278233,2026-09-15T04:15:37.000Z,Mujer,2008-01-21,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6219,324117420,2026-09-15T04:17:02.000Z,Mujer,2008-07-13,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6220,Morquecho ,2026-09-15T04:19:12.000Z,Mujer,2008-05-28,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6221,324236567,2026-09-15T04:22:06.000Z,Mujer,2008-01-25,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6222,427345919,2026-09-15T04:22:18.000Z,Mujer,2006-01-26,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6223,Metzli,2026-09-15T04:31:30.000Z,Mujer,2008-03-20,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6224,David Esponda,2026-09-15T04:31:35.000Z,Hombre,2008-05-16,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6225,324039241,2026-09-15T04:34:06.000Z,Mujer,2008-04-24,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6226,324116131,2026-09-15T04:35:26.000Z,Mujer,2008-11-27,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6227,324025628,2026-09-15T04:38:02.000Z,Mujer,2008-12-10,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6228,324250530,2026-09-15T04:38:19.000Z,Hombre,2007-03-25,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6229,Deess,2026-09-15T04:39:17.000Z,Mujer,2008-06-18,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6230,324158876,2026-09-15T04:39:41.000Z,Hombre,2008-01-14,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6231,danveloz32,2026-09-15T04:41:01.000Z,Mujer,2005-07-06,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6232,427355589,2026-09-15T04:47:57.000Z,Mujer,2008-09-15,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6233,324168707,2026-09-15T04:52:47.000Z,Hombre,2008-04-25,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6234,121000323,2026-09-15T04:53:50.000Z,Mujer,2007-10-25,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6235,324196166,2026-09-15T04:56:34.000Z,Mujer,2009-01-26,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6236,427291201,2026-09-15T04:59:49.000Z,Hombre,2006-01-17,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6237,Diego E,2026-09-15T05:00:02.000Z,Hombre,2008-04-20,MX,Colegio de Bachilleres,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6238,324237863,2026-09-15T05:05:30.000Z,Mujer,2008-06-13,MX,ENP 8 “Miguel E. Schulz”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6239,324217489,2026-09-15T05:10:30.000Z,Hombre,2006-06-01,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6240,Sur_j3240,2026-09-15T05:11:09.000Z,Mujer,2008-02-13,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6241,324045507,2026-09-15T05:11:37.000Z,Mujer,2008-09-12,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6242,324164981,2026-09-15T05:17:10.000Z,Mujer,2008-08-22,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6243,Cpy,2026-09-15T05:23:53.000Z,Mujer,2008-10-01,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6244,324172973,2026-09-15T05:25:51.000Z,Mujer,2008-06-22,MX,CCH Naucalpan,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6245,324052602,2026-09-15T05:28:21.000Z,Hombre,2008-05-27,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6246,324122648,2026-09-15T05:31:05.000Z,Mujer,2008-04-12,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6247,324211133,2026-09-15T05:31:05.000Z,Mujer,2008-06-19,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6248,324141991,2026-09-15T05:31:30.000Z,Mujer,2008-05-17,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6249,roch15,2026-09-15T05:34:33.000Z,Hombre,2008-03-15,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6250,virigr_2803e,2026-09-15T05:38:24.000Z,Mujer,2008-03-28,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6251,324273537,2026-09-15T05:41:37.000Z,Hombre,2008-08-18,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6252,324048890,2026-09-15T06:32:28.000Z,Hombre,2008-06-21,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6253,121001124,2026-09-15T08:25:41.000Z,Hombre,2008-09-27,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6254,324021974,2026-09-15T11:46:45.000Z,Mujer,2008-02-13,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6256,324024731,2026-09-15T15:41:20.000Z,Hombre,2008-05-16,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6257,324120132,2026-09-15T16:45:48.000Z,Mujer,2008-10-27,MX,ENP 1 “Gabino Barreda”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6258,Ricardovazquez,2026-09-15T16:55:31.000Z,Hombre,2008-10-11,MX,Otra,10,Facultad de Medicina CU,Médico Cirujano,Sí
+6259,Romina,2026-09-15T16:56:33.000Z,Mujer,2008-12-13,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6260,427396014,2026-09-15T17:01:05.000Z,Hombre,2008-10-11,MX,Incorporada a la SEP,10,Facultad de Medicina CU,Médico Cirujano,Sí
+6261,324198407,2026-09-15T17:16:32.000Z,Hombre,2008-02-20,MX,CCH Azcapotzalco,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6262,316681784,2026-09-15T17:33:34.000Z,Hombre,1999-11-09,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6264,324195066,2026-09-15T18:08:43.000Z,Mujer,2008-01-31,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6265,YUGV,2026-09-15T20:26:03.000Z,Hombre,2008-07-20,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6266,324162767,2026-09-15T21:18:04.000Z,Mujer,2008-10-11,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6267,324263826,2026-09-15T22:01:20.000Z,Mujer,2008-09-12,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6268,lopezfloresjuliomartin,2026-09-16T02:41:40.000Z,Hombre,2007-08-07,MX,Incorporada a la UNAM,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6269,324037852,2026-09-16T03:12:11.000Z,Mujer,2008-07-19,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6270,323031802,2026-09-16T03:40:36.000Z,Mujer,2007-11-27,MX,ENP 6 “Antonio Caso”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6271,324317943,2026-09-16T03:56:51.000Z,Mujer,2008-10-07,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6272,324264184,2026-09-16T04:15:57.000Z,Mujer,2008-04-02,MX,ENP 9 “Pedro de Alba”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6273,324017722,2026-09-16T06:25:54.000Z,Mujer,2007-12-30,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6274,427372302,2026-09-16T16:36:38.000Z,Hombre,2008-04-14,MX,Incorporada a la SEP,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6275,ximsals08,2026-09-16T19:43:43.000Z,Mujer,2008-04-23,MX,ENP 6 “Antonio Caso”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6276,MIPS,2026-09-17T00:55:50.000Z,Hombre,2008-10-10,MX,CCH Vallejo,9,Facultad de Medicina CU,Fisioterapia,Sí
+6277,324263424,2026-09-17T01:48:41.000Z,Mujer,2008-10-17,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6278,324052028,2026-09-17T03:54:52.000Z,Mujer,2008-04-29,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6279,324217070,2026-09-17T04:18:56.000Z,Hombre,2007-05-15,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6280,324216121,2026-09-17T04:54:09.000Z,Mujer,2008-10-14,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6281,Ximena Ruiz,2026-09-17T05:19:23.000Z,Mujer,2008-03-26,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6282,amegonz,2026-09-17T05:21:04.000Z,Mujer,2008-03-01,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6283,crtspz4246@gmail.com,2026-09-17T15:40:08.000Z,Hombre,2006-07-13,MX,Incorporada a la SEP,10,Facultad de Medicina CU,Médico Cirujano,Sí
+6284,324042056,2026-09-17T15:59:08.000Z,Hombre,2008-04-13,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6285,324307706,2026-09-17T17:36:38.000Z,Mujer,2008-06-21,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6286,324279151,2026-09-17T17:38:46.000Z,Hombre,2008-06-10,MX,ENP 3 “Justo Sierra”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6287,324317077,2026-09-17T18:19:06.000Z,Mujer,2008-04-17,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6289,316287142,2026-09-18T01:06:50.000Z,Hombre,2000-02-22,MX,CCH Sur,7,Facultad de Medicina CU,Médico Cirujano,Sí
+6290,Zamora Muro Yessica Valentina,2026-09-18T02:30:44.000Z,Mujer,2008-09-01,MX,Incorporada a la UNAM,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6291,324185788,2026-09-18T05:02:57.000Z,Mujer,2008-06-13,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6292,324274613,2026-09-18T13:09:01.000Z,Mujer,2008-06-13,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6293,427383649,2026-09-18T15:13:31.000Z,Mujer,2008-07-28,MX,Otra,10,Facultad de Medicina CU,Médico Cirujano,Sí
+6294,324185678,2026-09-18T16:02:06.000Z,Mujer,2007-05-05,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6295,324003831,2026-09-18T16:16:08.000Z,Mujer,2008-06-19,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6296,Daniel_infante,2026-09-18T16:37:30.000Z,Hombre,2002-07-22,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6297,magana_azulvg8,2026-09-18T21:36:17.000Z,Prefiero no decirlo,2008-11-05,MX,ENP 7 “Ezequiel A. Chávez”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6298,427329612,2026-09-19T00:37:56.000Z,Hombre,2006-05-06,MX,Incorporada a la SEP,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6299,324263651,2026-09-19T01:15:39.000Z,Mujer,2008-03-16,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6300,zoe Bernal,2026-09-19T02:53:27.000Z,Mujer,2008-03-16,MX,ENP 2 “Erasmo Castellanos Quinto”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6301,jessy.montis,2026-09-19T20:29:36.000Z,Mujer,2008-01-02,MX,ENP 5 “José Vasconcelos”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6302,Metzli Lopez ,2026-09-20T06:31:31.000Z,Mujer,2008-03-20,MX,CCH Vallejo,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6304,usario67676767,2026-09-20T18:44:58.000Z,Mujer,2009-11-21,MX,Otra,9,Facultad de Medicina CU,Médico Cirujano,No
+6305,324259117,2026-09-20T23:24:51.000Z,Hombre,2008-12-24,MX,CCH Oriente,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6306,324064939,2026-09-21T04:44:11.000Z,Hombre,2008-07-21,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6307,324044373,2026-09-21T05:43:31.000Z,Mujer,2008-01-12,MX,ENP 4 “Vidal Castañeda y Nájera”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6308,324144411,2026-09-22T09:42:45.000Z,Mujer,2008-04-29,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6309,322031603,2026-09-22T22:35:01.000Z,Mujer,2006-09-26,MX,ENP 1 “Gabino Barreda”,8,Facultad de Medicina CU,Médico Cirujano,Sí
+6311,324124329,2026-09-24T13:15:30.000Z,Hombre,2008-09-08,MX,ENP 5 “José Vasconcelos”,9,Facultad de Medicina CU,Médico Cirujano,Sí
+6312,324053410,2026-09-24T16:03:15.000Z,Mujer,2008-11-09,MX,CCH Sur,9,Facultad de Medicina CU,Médico Cirujano,Sí
